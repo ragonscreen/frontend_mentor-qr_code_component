@@ -39,16 +39,16 @@ Setting a padding value to a container with an image inside, and setting the ima
 
 ```html
 <div id="image-container">
-  <img src="some-image.png" alt="some image">
+  <img id="some-image" src="some-image.png" alt="some image">
 </div>
 ```
 
 ```css
-div {
+#image-container {
   padding: 16px;
 }
 
-img {
+#some-image {
   display: block;
   width: 100%;
   margin: 0 auto;

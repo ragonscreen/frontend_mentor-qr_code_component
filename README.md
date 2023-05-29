@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- [Solution URL](https://github.com/ragonscreen/frontend_mentor-qr_code_component/tree/main)
+- [Solution URL](https://github.com/ragonscreen/frontend_mentor-qr_code_component/)
 - [Live Site URL](https://ragonscreen.github.io/frontend_mentor-qr_code_component/)
 
 ## My process
